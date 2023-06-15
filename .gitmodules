@@ -1,0 +1,3 @@
+[submodule "phase-1-arithmetic-lab/phase-1-arithmetic-lab"]
+	path = phase-1-arithmetic-lab/phase-1-arithmetic-lab
+	url = git@github.com:Shadrack5/phase-1-arithmetic-lab.git
